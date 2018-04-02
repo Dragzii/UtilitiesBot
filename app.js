@@ -1,6 +1,6 @@
 const discord = require('discord.js')
 const client = new discord.Client;
-const Settings = require("./settings.json");
+const Settings = require("./settings.js");
 
 client.on('ready', () => {
 	console.log("me me big boy");
