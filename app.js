@@ -3,7 +3,7 @@ const client = new discord.Client;
 const Settings = require("./settings.js");
 
 client.on('ready', () => {
-	console.log("me me big boy");
+	console.log("for fnaf in roblox in mincrsft with new features and cancer");
 })
 require("./extenders/Message");
 require("./extenders/MessageEmbed");
